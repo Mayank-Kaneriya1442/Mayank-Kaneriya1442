@@ -1,19 +1,51 @@
 # Hi 👋, I'm Mayank Kaneriya
 
-## 💻 About Me
-Aspiring MERN Stack Developer passionate about building web applications and learning new technologies.
+## 💻 Aspiring MERN Stack Developer | Building Web Applications
+
+I am a passionate web developer focused on building modern and responsive web applications using the MERN stack. I enjoy learning new technologies and working on real-world projects to improve my development skills.
+
+---
 
 ## 🚀 Skills
-- Frontend: React.js, Angular, HTML, CSS, Bootstrap
-- Backend: Node.js, Express.js, PHP
-- Database: MongoDB, MySQL
+
+### 🌐 Frontend
+- HTML
+- CSS
+- Bootstrap
+- React.js
+- Angular
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- PHP
+
+### 🗄️ Database
+- MongoDB
+- MySQL
+
+### 🛠️ Tools
+- Git & GitHub
+- VS Code
+
+---
 
 ## 📂 Projects
-- Tour and Travels Management System
-- Online Examination Management System
-- Fake News Detection System
-- Online Shoes Shopping Website
-- Parking Slot Booking System
 
-## 📫 Contact
-LinkedIn: https://www.linkedin.com/in/mayank-kaneriya-011729363/
+- 🌍 Tour and Travels Management System  
+- 📝 Online Examination Management System  
+- 📰 Fake News Detection System  
+- 👟 Online Shoes Shopping Website  
+- 🚗 Parking Slot Booking Website  
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/mayank-kaneriya-011729363/
+
+---
+
+## 🎯 Goal
+
+To become a skilled MERN Stack Developer and build efficient, scalable, and user-friendly web applications.
