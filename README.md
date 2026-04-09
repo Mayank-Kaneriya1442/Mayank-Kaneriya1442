@@ -15,7 +15,7 @@ I am a passionate web developer focused on building modern and responsive web ap
 - React.js
 - Angular
 
-### ⚙️ Backend
+###  Backend
 - Node.js
 - Express.js
 - PHP
