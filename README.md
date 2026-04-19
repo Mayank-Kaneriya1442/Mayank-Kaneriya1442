@@ -57,6 +57,12 @@ I enjoy learning new technologies and continuously improving my development skil
 
 ---
 
+## 📊 GitHub Stats
+
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayank-Kaneriya1442&show_icons=true&theme=tokyonight)
+
+---
+
 ## 🌐 Connect with Me
 
 🔗 LinkedIn:
