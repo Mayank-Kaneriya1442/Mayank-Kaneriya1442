@@ -63,7 +63,6 @@ I enjoy learning new technologies and continuously improving my development skil
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Kaneriya1442&layout=compact&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=Mayank-Kaneriya1442&theme=tokyonight)
 ---
 
 ## 🌐 Connect with Me
