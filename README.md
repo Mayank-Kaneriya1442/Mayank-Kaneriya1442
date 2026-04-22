@@ -59,8 +59,6 @@ I enjoy learning new technologies and continuously improving my development skil
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mayank-Kaneriya1442&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Kaneriya1442&layout=compact&theme=tokyonight)
 
 ---
