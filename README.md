@@ -76,12 +76,6 @@ focusing on Python Development.
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Kaneriya1442&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Current Goal
 
 Transitioning from Full Stack Web Development into **Python Development, AI, and Machine Learning**.
