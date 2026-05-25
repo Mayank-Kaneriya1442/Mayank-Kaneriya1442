@@ -1,59 +1,78 @@
 # 👋 Hi, I'm Mayank Kaneriya
 
-🚀 **Aspiring MERN Stack Developer**
-💻 Building modern, responsive & scalable web applications
+🚀 **Full Stack Developer | Python Developer | Aspiring AI & ML Engineer**
+💻 Building modern web applications & exploring Python, AI, and Data Science
 
 ---
 
 ## 🌟 About Me
 
-I am a passionate web developer focused on building real-world applications using the MERN stack.
-I enjoy learning new technologies and continuously improving my development skills by working on practical projects.
+I am a BCA graduate passionate about Python development, Artificial Intelligence,
+Machine Learning, and Full Stack Web Development.
+I have hands-on experience building real-world applications using MEAN & MERN stacks,
+and I am actively expanding into Python-based development, Data Science, and AI/ML.
+I completed a 3-month internship at **NEXPRISM IT Company** as a Web Developer Intern
+focusing on Python Development.
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 🐍 Python / AI & Data Science
+
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
 ### 🎨 Frontend
 
-![HTML](https://img.shields.io/badge/HTML-ff5722?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge\&logo=react\&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
 ### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge\&logo=php\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
 ### 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ### 🧰 Tools
 
-![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
+### 🌐 Full Stack Web Projects
+🔹 **[Online Examination Management System](https://github.com/Mayank-Kaneriya1442/Online-Examination-Management-System)** — MEAN Stack · JWT Auth · Role-based Access
+🔹 **[Education Management System](https://github.com/Mayank-Kaneriya1442/education-management-system)** — MEAN Stack · REST APIs · Angular UI
+🔹 **[Car Parking Slot Booking System](https://github.com/Mayank-Kaneriya1442/Online-Parking-Slot-Booking-Website)** — MERN Stack · Real-time Slot Tracking
 🔹 **Tour and Travels Management System**
-🔹 **Online Examination Management System**
-🔹 **Education Management System**
 🔹 **Online Shoes Shopping Website**
-🔹 **Parking Slot Booking Website**
+
+### 🐍 Python Projects
+> 🔨 *Currently building — coming soon!*
 
 ---
 
@@ -63,17 +82,18 @@ I enjoy learning new technologies and continuously improving my development skil
 
 ---
 
+## 🎯 Current Goal
+
+Transitioning from Full Stack Web Development into **Python Development, AI, and Machine Learning**.
+Actively learning NumPy, Pandas, Scikit-learn and building Python-based projects.
+
+---
+
 ## 🌐 Connect with Me
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/mayank-kaneriya-011729363/
+🔗 **LinkedIn:** [mayank-kaneriya-011729363](https://www.linkedin.com/in/mayank-kaneriya-011729363/)
+📧 **Email:** mayankkaneriya15@gmail.com
 
 ---
 
-## 🎯 Goal
-
-To become a skilled MERN Stack Developer and build efficient, scalable, and user-friendly web applications.
-
----
-
-✨ *Always learning, always building*
+✨ *Always learning, always building — one project at a time*
