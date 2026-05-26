@@ -65,9 +65,9 @@ focusing on Python Development.
 ## 🚀 Projects
 
 ### 🌐 Full Stack Web Projects
-🔹 **[Online Examination Management System](https://github.com/Mayank-Kaneriya1442/Online-Examination-Management-System)** — MEAN Stack · JWT Auth · Role-based Access**
-🔹 **[Education Management System](https://github.com/Mayank-Kaneriya1442/education-management-system)** — MEAN Stack · REST APIs · Angular UI**
-🔹 **[Car Parking Slot Booking System](https://github.com/Mayank-Kaneriya1442/Online-Parking-Slot-Booking-Website)** — MERN Stack · Real-time Slot Tracking**
+🔹 **[Online Examination Management System](https://github.com/Mayank-Kaneriya1442/Online-Examination-Management-System)** — MEAN Stack · JWT Auth · Role-based Access
+🔹 **[Education Management System](https://github.com/Mayank-Kaneriya1442/education-management-system)** — MEAN Stack · REST APIs · Angular UI
+🔹 **[Car Parking Slot Booking System](https://github.com/Mayank-Kaneriya1442/Online-Parking-Slot-Booking-Website)** — MERN Stack · Real-time Slot Tracking
 🔹 **Tour and Travels Management System**
 🔹 **Online Shoes Shopping Website**
 
