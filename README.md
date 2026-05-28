@@ -78,21 +78,8 @@ focusing on Python Development.
 | 📝 **[Online Examination Management System](https://github.com/Mayank-Kaneriya1442/Online-Examination-Management-System)** | Role-based exam system with JWT authentication | MEAN Stack, JWT |
 | 🎓 **[Education Management System](https://github.com/Mayank-Kaneriya1442/education-management-system)** | REST API-based education platform with Angular UI | MEAN Stack, REST API |
 | 🅿️ **[Car Parking Slot Booking System](https://github.com/Mayank-Kaneriya1442/Online-Parking-Slot-Booking-Website)** | Real-time parking slot booking and tracking | MERN Stack |
-| ✈️ **Tour and Travels Management System** | Travel booking and management platform | Full Stack |
-| 👟 **Online Shoes Shopping Website** | E-commerce platform for footwear | Full Stack |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayank-Kaneriya1442&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Kaneriya1442&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Kaneriya1442&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+| ✈️ **[Tour and Travels Management System](https://github.com/Mayank-Kaneriya1442/tour-travels-management-system)** | Travel booking and management platform | Full Stack |
+| 👟 **[Online Shoes Shopping Website](https://github.com/Mayank-Kaneriya1442/Online-Shoes-Shopping-Website)** | E-commerce platform for footwear | Full Stack |
 
 ---
 
