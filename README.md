@@ -19,17 +19,17 @@ focusing on Python Development.
 ## 🛠️ Tech Stack
 
 ### 🐍 Python / AI & Data Science
-
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776ab?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ### 🎨 Frontend
-
 ![HTML](https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,7 +40,6 @@ focusing on Python Development.
 ---
 
 ### ⚙️ Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)
@@ -48,31 +47,52 @@ focusing on Python Development.
 ---
 
 ### 🗄️ Database
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ### 🧰 Tools
-
 ![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
-### 🌐 Full Stack Web Projects
-🔹 **[Online Examination Management System](https://github.com/Mayank-Kaneriya1442/Online-Examination-Management-System)** — MEAN Stack · JWT Auth · Role-based Access
-🔹 **[Education Management System](https://github.com/Mayank-Kaneriya1442/education-management-system)** — MEAN Stack · REST APIs · Angular UI
-🔹 **[Car Parking Slot Booking System](https://github.com/Mayank-Kaneriya1442/Online-Parking-Slot-Booking-Website)** — MERN Stack · Real-time Slot Tracking
-🔹 **Tour and Travels Management System**
-🔹 **Online Shoes Shopping Website**
+### 🤖 Python / AI & Data Science Projects
 
-### 🐍 Python Projects
-> 🔨 *Currently building — coming soon!*
+| Project | Description | Tech Used |
+|---------|-------------|-----------|
+| 🌸 **[Iris Flower Classification](https://github.com/Mayank-Kaneriya1442/Iris-Flower-Classification)** | Classifies Iris flowers into 3 species using multiple ML models. Includes EDA, visualizations & model comparison. Best accuracy: **~98%** | Python, Pandas, Scikit-learn, Seaborn |
+| 🚗 **[Car Price Prediction](https://github.com/Mayank-Kaneriya1442/Car-Price-Prediction)** | Predicts resale price of used cars based on brand, year, fuel type & more. Best R² Score: **~0.95** | Python, Pandas, Scikit-learn, Matplotlib |
+
+---
+
+### 🌐 Full Stack Web Projects
+
+| Project | Description | Tech Used |
+|---------|-------------|-----------|
+| 📝 **[Online Examination Management System](https://github.com/Mayank-Kaneriya1442/Online-Examination-Management-System)** | Role-based exam system with JWT authentication | MEAN Stack, JWT |
+| 🎓 **[Education Management System](https://github.com/Mayank-Kaneriya1442/education-management-system)** | REST API-based education platform with Angular UI | MEAN Stack, REST API |
+| 🅿️ **[Car Parking Slot Booking System](https://github.com/Mayank-Kaneriya1442/Online-Parking-Slot-Booking-Website)** | Real-time parking slot booking and tracking | MERN Stack |
+| ✈️ **Tour and Travels Management System** | Travel booking and management platform | Full Stack |
+| 👟 **Online Shoes Shopping Website** | E-commerce platform for footwear | Full Stack |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayank-Kaneriya1442&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Kaneriya1442&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Kaneriya1442&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 
 ---
 
@@ -85,8 +105,9 @@ Actively learning NumPy, Pandas, Scikit-learn and building Python-based projects
 
 ## 🌐 Connect with Me
 
-🔗 **LinkedIn:** [mayank-kaneriya-011729363](https://www.linkedin.com/in/mayank-kaneriya-011729363/)
-📧 **Email:** mayankkaneriya15@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-kaneriya-011729363/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayank-Kaneriya1442)
+[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankkaneriya15@gmail.com)
 
 ---
 
