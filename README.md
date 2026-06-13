@@ -5,6 +5,12 @@
 
 ---
 
+## 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-mayankkaneriya1442.netlify.app-4CAF50?style=for-the-badge&logo=netlify&logoColor=white)](https://mayankkaneriya1442.netlify.app/)
+
+---
+
 ## 🌟 About Me
 
 I am a BCA graduate passionate about Python development, Artificial Intelligence,
@@ -68,6 +74,8 @@ focusing on Python Development.
 |---------|-------------|-----------|
 | 🌸 **[Iris Flower Classification](https://github.com/Mayank-Kaneriya1442/Iris-Flower-Classification)** | Classifies Iris flowers into 3 species using multiple ML models. Includes EDA, visualizations & model comparison. Best accuracy: **~98%** | Python, Pandas, Scikit-learn, Seaborn |
 | 🚗 **[Car Price Prediction](https://github.com/Mayank-Kaneriya1442/Car-Price-Prediction)** | Predicts resale price of used cars based on brand, year, fuel type & more. Best R² Score: **~0.95** | Python, Pandas, Scikit-learn, Matplotlib |
+| 📈 **[Sales Prediction](https://github.com/Mayank-Kaneriya1442/SalesPrediction)** | Predicts future product sales based on advertising spend across TV, Radio, and Newspaper channels. Includes EDA, feature correlation analysis & regression modeling. Best R² Score: **~0.90** | Python, Pandas, Scikit-learn, Matplotlib, Seaborn |
+| 📉 **[Unemployment Analysis](https://github.com/Mayank-Kaneriya1442/UnemploymentAnalysis)** | Analyzes unemployment rate trends in India during & after COVID-19. Includes region-wise breakdown, time-series visualization & key statistical insights. | Python, Pandas, Matplotlib, Seaborn |
 
 ---
 
@@ -92,6 +100,7 @@ Actively learning NumPy, Pandas, Scikit-learn and building Python-based projects
 
 ## 🌐 Connect with Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=netlify&logoColor=white)](https://mayankkaneriya1442.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-kaneriya-011729363/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayank-Kaneriya1442)
 [![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankkaneriya15@gmail.com)
