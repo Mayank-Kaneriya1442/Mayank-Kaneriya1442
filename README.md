@@ -7,7 +7,7 @@
 
 ## 🌐 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-mayankkaneriya1442.netlify.app-4CAF50?style=for-the-badge&logo=netlify&logoColor=white)](https://mayankkaneriya1442.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-mayankkaneriya1442.vercel.app-4CAF50?style=for-the-badge&logo=netlify&logoColor=white)](https://mayankkaneriya1442.vercel.app)
 
 ---
 
