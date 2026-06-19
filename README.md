@@ -100,10 +100,10 @@ Actively learning NumPy, Pandas, Scikit-learn and building Python-based projects
 
 ## 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://mayankkaneriya1442.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-kaneriya-011729363/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayank-Kaneriya1442)
-[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankkaneriya15@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00C853?style=for-the-badge)](https://mayankkaneriya1442.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-kaneriya-011729363/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayank-Kaneriya1442)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankkaneriya15@gmail.com)
 
 ---
 
