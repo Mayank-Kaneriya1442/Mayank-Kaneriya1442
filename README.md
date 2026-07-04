@@ -83,21 +83,6 @@ I'm currently transitioning deeper into AI/ML — sharpening my skills in NumPy,
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayank-Kaneriya1442&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Kaneriya1442&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Kaneriya1442&theme=tokyonight&hide_border=true)
-
-</div>
-
-> 💡 *These widgets update automatically — no maintenance needed. Just replace the username if it changes.*
-
----
-
 ## Current Focus
 
 Transitioning from full stack web development into **Python, AI, and Machine Learning** — actively building projects with NumPy, Pandas, and Scikit-learn to strengthen real-world data science skills.
